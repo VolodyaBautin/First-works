@@ -161,7 +161,7 @@ img{
 /* Intro styles start */
 .intro{
   min-height: 100vh;
-  background: url(/img/intro-bg-min.jpg) no-repeat center; 
+  background: url(/img/intro-bg-min.JPG) no-repeat center; 
   background-size: cover;
   padding-top: 263px;
   padding-bottom: 223px;
@@ -190,7 +190,7 @@ img{
 }
 .search-form-field{
   width: 297px;
-  background: transparent url(../img/svg/circle-ico.svg) no-repeat left 6px;
+  background: transparent url(../img/svg/circle-ico.SVG) no-repeat left 6px;
   background-size: 20px;
   border: 0;
   border-bottom: 2px solid #BFC0C5;
