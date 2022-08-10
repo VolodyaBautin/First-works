@@ -190,7 +190,7 @@ img{
 }
 .search-form-field{
   width: 297px;
-  background: transparent url(../img/svg/circle-ico.SVG) no-repeat left 6px;
+  background: transparent url(../img/svg/circle-ico.svg) no-repeat left 6px;
   background-size: 20px;
   border: 0;
   border-bottom: 2px solid #BFC0C5;
