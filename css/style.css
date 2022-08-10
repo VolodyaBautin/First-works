@@ -161,7 +161,7 @@ img{
 /* Intro styles start */
 .intro{
   min-height: 100vh;
-  background: url(./img/intro-bg-min.jpg) no-repeat center; 
+  background: url(../img/intro-bg-min.jpg) no-repeat center; 
   background-size: cover;
   padding-top: 263px;
   padding-bottom: 223px;
@@ -190,7 +190,7 @@ img{
 }
 .search-form-field{
   width: 297px;
-  background: transparent url(./img/svg/circle-ico.SVG) no-repeat left 6px;
+  background: transparent url(../img/svg/circle-ico.SVG) no-repeat left 6px;
   background-size: 20px;
   border: 0;
   border-bottom: 2px solid #BFC0C5;
@@ -310,13 +310,13 @@ img{
   line-height: 24px;
   color: #006DFE;
   text-decoration: none;
-  background: url(./img/svg/arrow-right-ico.svg) no-repeat 95% center;
+  background: url(../img/svg/arrow-right-ico.svg) no-repeat 95% center;
   -webkit-transition: .2s all;
   -o-transition: .2s all;
   transition: .2s all;
 }
 .benefits-card-more:hover, .benefits-card-more:focus{
-  background: url(./img/svg/arrow-right-ico.svg) no-repeat 100% center;
+  background: url(../img/svg/arrow-right-ico.svg) no-repeat 100% center;
 }
 /* Benefits style end */
 /* Plsces style start */
@@ -344,7 +344,7 @@ img{
   font-size: 16px;
   color: #006DFE;
   text-decoration: none;
-  background: url(./img/svg/arrow-right-ico.svg) no-repeat 95% center;
+  background: url(../img/svg/arrow-right-ico.svg) no-repeat 95% center;
   padding-right: 59px;
 }
 .places-view-all:hover, .places-view-all:focus{
@@ -454,7 +454,7 @@ img{
   color: #006DFE;
   padding-right: 59px;
   text-decoration: none;
-  background: url(./img/svg/arrow-right-ico.svg) no-repeat right center;
+  background: url(../img/svg/arrow-right-ico.svg) no-repeat right center;
 }
 .tour-more:hover, .tour-more:focus{
 opacity: .75;
@@ -537,7 +537,7 @@ opacity: .75;
   line-height: 24px;
   color: white;
   padding-right: 20px;
-  background: url(./img/svg/heart.svg) no-repeat  right;
+  background: url(../img/svg/heart.svg) no-repeat  right;
   margin-right: 14px;
 }
 .top-card-com{
@@ -546,7 +546,7 @@ opacity: .75;
   line-height: 24px;
   color: white;
   padding-right: 23px;
-  background: url(./img/svg/com.svg) no-repeat right;
+  background: url(../img/svg/com.svg) no-repeat right;
 }
 .top-card-dex{
   font-size: 16px;
@@ -786,7 +786,7 @@ opacity: .75;
     margin-right: 0;
     font-size: 16px;
     padding-bottom: 12px;
-    background: transparent url(./img/svg/circle-ico.svg) no-repeat left 2px;
+    background: transparent url(../img/svg/circle-ico.svg) no-repeat left 2px;
 
   }
   .search-form-field::-webkit-input-placeholder{
